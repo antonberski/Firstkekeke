@@ -1,2 +1,3 @@
 print("Hello world!")
-prrint("Hello everybody")
+print("Hello everybody")
+print("Hello")
